@@ -1,0 +1,5 @@
+print("enter you name")
+input("")
+print("enter your hobby")
+input("")
+print("Who you are you are good in your own world don't let someone break or vanished your own world ")
